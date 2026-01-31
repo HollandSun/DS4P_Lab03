@@ -114,5 +114,5 @@ The most common country of birth among Nobel laureates who won their prizes whil
   paste0("This country is tied with ", birth_country_counts$born_country[2], ", which also has ", birth_country_counts$n[2], " laureates.")
 }`
 
-BTW,This solution was written after examining the output(there are 2 country being tied with). A more general solution would involve iterating through the counts from the top until no ties remain,and then get the **n**, determining how many countries share the highest frequency, and then generating the linein sentence accordingly.
+BTW, This solution was written after examining the output(there are 2 country being tied with). A more general solution would involve iterating through the counts from the top until no ties remain,and then get the **n**, determining how many countries share the highest frequency, and then generating the linein sentence accordingly.
 

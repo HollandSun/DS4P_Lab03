@@ -135,7 +135,7 @@ prizes while based in the United States but were born elsewhere is
 Germany, with 7 laureates. This country is tied with United Kingdom,
 which also has 7 laureates.
 
-BTW,This solution was written after examining the output(there are 2
+BTW, This solution was written after examining the output(there are 2
 country being tied with). A more general solution would involve
 iterating through the counts from the top until no ties remain,and then
 get the **n**, determining how many countries share the highest
